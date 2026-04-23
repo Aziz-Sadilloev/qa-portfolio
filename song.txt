@@ -1,0 +1,4 @@
+I found a bug in the code today,
+Pushed it to main, then ran away.
+The tests are red, the build is down,
+I'm the fastest QA in the town!
